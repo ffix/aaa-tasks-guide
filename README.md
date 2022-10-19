@@ -6,8 +6,10 @@
 и нажмите на зелёную кнопку "New".
 ![Create a new repository](images/create-repo.png)
 2. Склонируйте себе ваш репозиторий (в примере он называется `aaa-final-task`):
+```
 git clone https://github.com/username/aaa-final-task.git
-3. Создайте ветку с именем подходящим именем (например, my-final-task)
+```
+3. Создайте ветку с именем подходящим именем (например, my-final-task):
 ```
 $ cd aaa-final-task
 $ git switch -c my-final-task
@@ -28,19 +30,20 @@ $ git push --set-upstream origin my-final-task
 7. Перейдите на страницу вашего репозитория, в шапке появится сообщение с
 предложением создать Pull Request из вновь созданной ветки.
 Нажмите на зелёную кнопку "Compare & pull request".
-![Create a new repository](images/new-pr.png)
+![Create a new pull request](images/new-pr.png)
 8. Пройдите по ссылке, впишите описание: текст задания + особенности решения.
 9. Просмотрите изменения, если всё корректно — нажмите кнопку "Create pull request".
-10. Добавьте описание и наставников в репозиторий (об этом ниже):
+10. Добавьте описание и наставников в репозиторий (об этом ниже).
 11. Приложите ссылку на PR к вашему домашнему заданию на Stepik
 12. Пройдите ревью и после одобрения пулл реквеста вмержите PR в master.
 
 
-__Убедительная просьба не мержить реквесты без апрува от проверяющего!__
+__Убедительная просьба не мержить без апрува от проверяющего!__
 
 ## Добавление преподавателей в репозиторий
 
 Зайдите на страницу настроек доступа (Settings -> Manage access), нажмите "Invite a collaborator" и пригласите наставников:
+![Add people](images/add-people.png)
 
 - Сергей Нинуа - [ffix](https://github.com/ffix)
 - Александр Непочатых - [anepochatykh](https://github.com/anepochatykh)
