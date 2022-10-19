@@ -4,6 +4,7 @@
 
 1. Создайте репозиторий на github (перейдите на главную [github.com](https://github.com/)
 и нажмите на зелёную кнопку "New".
+![Create a new repository](images/create-repo.png)
 2. Склонируйте себе ваш репозиторий (в примере он называется `aaa-final-task`):
 git clone https://github.com/username/aaa-final-task.git
 3. Создайте ветку с именем подходящим именем (например, my-final-task)
@@ -27,6 +28,7 @@ $ git push --set-upstream origin my-final-task
 7. Перейдите на страницу вашего репозитория, в шапке появится сообщение с
 предложением создать Pull Request из вновь созданной ветки.
 Нажмите на зелёную кнопку "Compare & pull request".
+![Create a new repository](images/new-pr.png)
 8. Пройдите по ссылке, впишите описание: текст задания + особенности решения.
 9. Просмотрите изменения, если всё корректно — нажмите кнопку "Create pull request".
 10. Добавьте описание и наставников в репозиторий (об этом ниже):
