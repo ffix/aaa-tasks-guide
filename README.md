@@ -2,7 +2,7 @@
 
 Для сдачи домашнего задания надо выполнить следующие действия (по порядку):
 
-1. Создайте репозиторий на github (перейдите на главную [github.com](https://github.com/)
+1. Создайте репозиторий на github: перейдите на главную [github.com](https://github.com/)
 и нажмите на зелёную кнопку "New".
 ![Create a new repository](images/create-repo.png)
 2. Обязательно выберите Initialize this repository with: Add a README file.
