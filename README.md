@@ -26,7 +26,6 @@ $ mypy .
 ```
 7. Зафиксируйте (commit) изменения и загрузите (push) ветку на github:
 ```
-$ git add -A
 $ git commit -am "Do an AAA final task"
 $ git push --set-upstream origin my-final-task
 ```
