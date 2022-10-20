@@ -12,7 +12,7 @@
 ```
 git clone https://github.com/username/aaa-final-task.git
 ```
-4. Создайте ветку с именем подходящим именем (например, my-final-task):
+4. Создайте ветку с подходящим именем (например, my-final-task):
 ```
 $ cd aaa-final-task
 $ git switch -c my-final-task
