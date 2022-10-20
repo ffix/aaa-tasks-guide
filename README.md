@@ -39,10 +39,9 @@ $ git push --set-upstream origin my-final-task
 11. Добавьте описание и наставников в репозиторий (об этом ниже).
 12. Приложите ссылку на PR к вашему домашнему заданию на Stepik
 13. Пройдите ревью и, после одобрения, вмержьте PR в master.
-![Create a new pull request](images/merge-pr.jpeg)
-
-
 __Убедительная просьба не мержить без апрува от проверяющего!__
+
+![Create a new pull request](images/merge-pr.jpeg)
 
 ## Добавление преподавателей в репозиторий
 
