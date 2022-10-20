@@ -50,6 +50,7 @@ __Убедительная просьба не мержить без апрув�
 
 - Александр Непочатых — [anepochatykh](https://github.com/anepochatykh)
 - Дима Куприянов — [kupro](https://github.com/kupro)
+- Павел Лысак — [pulysak](https://github.com/pulysak)
 - Сергей Нинуа — [ffix](https://github.com/ffix)
 
 
