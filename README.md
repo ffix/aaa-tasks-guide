@@ -32,12 +32,14 @@ $ git push --set-upstream origin my-final-task
 8. Перейдите на страницу вашего репозитория, в шапке появится сообщение с
 предложением создать Pull Request из вновь созданной ветки.
 Нажмите на зелёную кнопку "Compare & pull request".
-![Create a new pull request](images/new-pr.png)
+![Start creating a new pull request](images/new-pr.png)
 9. Пройдите по ссылке, впишите описание: текст задания + особенности решения.
-10. Просмотрите изменения, если всё корректно — нажмите кнопку "Create pull request".
+10. Просмотрите изменения, и, если всё корректно, нажмите кнопку "Create pull request".
+![Create a new pull request](images/create-pr.png)
 11. Добавьте описание и наставников в репозиторий (об этом ниже).
 12. Приложите ссылку на PR к вашему домашнему заданию на Stepik
 13. Пройдите ревью и, после одобрения, вмержьте PR в master.
+![Create a new pull request](images/merge-pr.png)
 
 
 __Убедительная просьба не мержить без апрува от проверяющего!__
